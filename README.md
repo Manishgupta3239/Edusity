@@ -44,7 +44,3 @@ Welcome to **Edusity**, a modern and responsive web application for learning, bu
 - ✅ Course Browsing
 - ✅ Responsive Design
 - ✅ Firebase Hosted
-
-
->>>>>>> 86aad92bc45c4461a7569ad8024f644ad6006378
-
