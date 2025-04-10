@@ -30,9 +30,6 @@ Welcome to **Edusity**, a modern and responsive web application for learning, bu
 
 🌐 [Visit Edusity](https://edusity-978cc.web.app/)
 
-## 📸 Preview
-
-![Edusity Screenshot](screenshot.png) <!-- Add a screenshot image if available -->
 
 ## 🛠️ Tech Stack
 
