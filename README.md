@@ -1,8 +1,24 @@
-# React + Vite
+# 🎓 Edusity - Online Education Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Edusity**, a modern and responsive web application for learning, built with the Reactjs.
 
-Currently, two official plugins are available:
+## 🚀 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌐 [Visit Edusity](https://edusity-978cc.web.app/)
+
+## 📸 Preview
+
+![Edusity Screenshot](screenshot.png) <!-- Add a screenshot image if available -->
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite, Tailwind CSS (or whatever you used)
+- **Hosting**: Firebase Hosting
+
+## 📂 Features
+
+- ✅ Course Browsing
+- ✅ Responsive Design
+- ✅ Firebase Hosted
+
+
