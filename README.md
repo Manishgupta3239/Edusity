@@ -33,7 +33,7 @@ Welcome to **Edusity**, a modern and responsive web application for learning, bu
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Vite, Tailwind CSS (or whatever you used)
+- **Frontend**: React, Vite, Tailwind CSS
 - **Hosting**: Firebase Hosting
 
 ## 📂 Features
